@@ -1,0 +1,6 @@
+C:\Users\zmalone\source\repos\ClientServerApp\ServerConsole\bin\Debug\ServerConsole.exe.config
+C:\Users\zmalone\source\repos\ClientServerApp\ServerConsole\bin\Debug\ServerConsole.exe
+C:\Users\zmalone\source\repos\ClientServerApp\ServerConsole\bin\Debug\ServerConsole.pdb
+C:\Users\zmalone\source\repos\ClientServerApp\ServerConsole\obj\Debug\ServerConsole.csprojAssemblyReference.cache
+C:\Users\zmalone\source\repos\ClientServerApp\ServerConsole\obj\Debug\ServerConsole.exe
+C:\Users\zmalone\source\repos\ClientServerApp\ServerConsole\obj\Debug\ServerConsole.pdb
