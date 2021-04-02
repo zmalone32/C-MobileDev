@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="CoinFlip13B.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height=".5*"/>
+        </Grid.RowDefinitions>
+        <Label Text="My Coin Flipper"
+               FontSize="30"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"/>
+        <ScrollView Grid.Row="1">
+            <ListView x:Name="LstViewCoin" SelectionMode="None"/>
+        </ScrollView>
+        <StackLayout Grid.Row="2"
+                     Orientation="Horizontal"
+                     HorizontalOptions="FillAndExpand">
+            <Button x:Name="BtnFlip"
+                    Text="Flip Coin"
+                    VerticalOptions="Center"
+                    HorizontalOptions="FillAndExpand"
+                    Clicked="BtnFlip_Clicked"/>
+            <Button x:Name="BtnFlip5x"
+                    Text="Flip Coin 5 Times"
+                    VerticalOptions="Center"
+                    HorizontalOptions="FillAndExpand"
+                    Clicked="BtnFlip5x_Clicked"/>
+            </StackLayout>
+    </Grid>
+
+</ContentPage>

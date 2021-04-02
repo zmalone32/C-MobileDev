@@ -1,0 +1,11 @@
+C:\Users\zmalone\source\repos\CoinFlip13B\CoinFlip13B\CoinFlip13B\bin\Debug\netstandard2.0\CoinFlip13B.deps.json
+C:\Users\zmalone\source\repos\CoinFlip13B\CoinFlip13B\CoinFlip13B\bin\Debug\netstandard2.0\CoinFlip13B.dll
+C:\Users\zmalone\source\repos\CoinFlip13B\CoinFlip13B\CoinFlip13B\bin\Debug\netstandard2.0\CoinFlip13B.pdb
+C:\Users\zmalone\source\repos\CoinFlip13B\CoinFlip13B\CoinFlip13B\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zmalone\source\repos\CoinFlip13B\CoinFlip13B\CoinFlip13B\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\zmalone\source\repos\CoinFlip13B\CoinFlip13B\CoinFlip13B\obj\Debug\netstandard2.0\CoinFlip13B.csproj.CoreCompileInputs.cache
+C:\Users\zmalone\source\repos\CoinFlip13B\CoinFlip13B\CoinFlip13B\obj\Debug\netstandard2.0\CoinFlip13B.AssemblyInfoInputs.cache
+C:\Users\zmalone\source\repos\CoinFlip13B\CoinFlip13B\CoinFlip13B\obj\Debug\netstandard2.0\CoinFlip13B.AssemblyInfo.cs
+C:\Users\zmalone\source\repos\CoinFlip13B\CoinFlip13B\CoinFlip13B\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\zmalone\source\repos\CoinFlip13B\CoinFlip13B\CoinFlip13B\obj\Debug\netstandard2.0\CoinFlip13B.dll
+C:\Users\zmalone\source\repos\CoinFlip13B\CoinFlip13B\CoinFlip13B\obj\Debug\netstandard2.0\CoinFlip13B.pdb
