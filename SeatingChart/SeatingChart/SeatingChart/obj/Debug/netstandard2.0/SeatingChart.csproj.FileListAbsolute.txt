@@ -1,0 +1,12 @@
+C:\Users\zmalone\source\repos\SeatingChart\SeatingChart\SeatingChart\bin\Debug\netstandard2.0\SeatingChart.deps.json
+C:\Users\zmalone\source\repos\SeatingChart\SeatingChart\SeatingChart\bin\Debug\netstandard2.0\SeatingChart.dll
+C:\Users\zmalone\source\repos\SeatingChart\SeatingChart\SeatingChart\bin\Debug\netstandard2.0\SeatingChart.pdb
+C:\Users\zmalone\source\repos\SeatingChart\SeatingChart\SeatingChart\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zmalone\source\repos\SeatingChart\SeatingChart\SeatingChart\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\zmalone\source\repos\SeatingChart\SeatingChart\SeatingChart\obj\Debug\netstandard2.0\SeatingChart.csproj.CoreCompileInputs.cache
+C:\Users\zmalone\source\repos\SeatingChart\SeatingChart\SeatingChart\obj\Debug\netstandard2.0\SeatingChart.AssemblyInfoInputs.cache
+C:\Users\zmalone\source\repos\SeatingChart\SeatingChart\SeatingChart\obj\Debug\netstandard2.0\SeatingChart.AssemblyInfo.cs
+C:\Users\zmalone\source\repos\SeatingChart\SeatingChart\SeatingChart\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\zmalone\source\repos\SeatingChart\SeatingChart\SeatingChart\obj\Debug\netstandard2.0\SeatingChart.dll
+C:\Users\zmalone\source\repos\SeatingChart\SeatingChart\SeatingChart\obj\Debug\netstandard2.0\SeatingChart.pdb
+C:\Users\zmalone\source\repos\SeatingChart\SeatingChart\SeatingChart\obj\Debug\netstandard2.0\SeatingChart.csprojAssemblyReference.cache
