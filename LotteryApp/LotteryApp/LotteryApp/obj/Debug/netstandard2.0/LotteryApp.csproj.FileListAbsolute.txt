@@ -1,0 +1,12 @@
+C:\Users\zmalone\source\repos\LotteryApp\LotteryApp\LotteryApp\bin\Debug\netstandard2.0\LotteryApp.deps.json
+C:\Users\zmalone\source\repos\LotteryApp\LotteryApp\LotteryApp\bin\Debug\netstandard2.0\LotteryApp.dll
+C:\Users\zmalone\source\repos\LotteryApp\LotteryApp\LotteryApp\bin\Debug\netstandard2.0\LotteryApp.pdb
+C:\Users\zmalone\source\repos\LotteryApp\LotteryApp\LotteryApp\obj\Debug\netstandard2.0\LotteryApp.csprojAssemblyReference.cache
+C:\Users\zmalone\source\repos\LotteryApp\LotteryApp\LotteryApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zmalone\source\repos\LotteryApp\LotteryApp\LotteryApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\zmalone\source\repos\LotteryApp\LotteryApp\LotteryApp\obj\Debug\netstandard2.0\LotteryApp.csproj.CoreCompileInputs.cache
+C:\Users\zmalone\source\repos\LotteryApp\LotteryApp\LotteryApp\obj\Debug\netstandard2.0\LotteryApp.AssemblyInfoInputs.cache
+C:\Users\zmalone\source\repos\LotteryApp\LotteryApp\LotteryApp\obj\Debug\netstandard2.0\LotteryApp.AssemblyInfo.cs
+C:\Users\zmalone\source\repos\LotteryApp\LotteryApp\LotteryApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\zmalone\source\repos\LotteryApp\LotteryApp\LotteryApp\obj\Debug\netstandard2.0\LotteryApp.dll
+C:\Users\zmalone\source\repos\LotteryApp\LotteryApp\LotteryApp\obj\Debug\netstandard2.0\LotteryApp.pdb
