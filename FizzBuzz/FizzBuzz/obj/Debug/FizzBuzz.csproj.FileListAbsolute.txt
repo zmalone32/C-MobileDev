@@ -1,0 +1,15 @@
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzz\obj\Debug\MainWindow.g.cs
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzz\obj\Debug\App.g.cs
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz_MarkupCompile.cache
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz_MarkupCompile.lref
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzz\obj\Debug\MainWindow.baml
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.g.resources
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.Properties.Resources.resources
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.GenerateResource.cache
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb

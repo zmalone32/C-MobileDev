@@ -1,0 +1,7 @@
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.exe.config
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.exe
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.pdb
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.csprojAssemblyReference.cache
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.csproj.CoreCompileInputs.cache
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.exe
+C:\Users\zmalone\source\repos\FizzBuzz\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.pdb
