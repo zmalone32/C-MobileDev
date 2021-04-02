@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App1"
+             x:Class="App1.MainPage">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Text="Design-a-car"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               Grid.Row="0"
+               Grid.ColumnSpan="2"
+               FontSize="20"/>
+        <Picker x:Name="PckMake"
+                Grid.Row="1"
+                Grid.ColumnSpan="2"
+                VerticalOptions="Center"
+                Title="Pick a Make"
+                FontSize="20">
+            <Picker.Items>
+                <x:String>Datsun</x:String>
+                <x:String>Ford</x:String>
+                <x:String>Chevy</x:String>
+            </Picker.Items>
+        </Picker>
+        <Picker x:Name="PckColor"
+                Grid.Row="2"
+                Grid.ColumnSpan="2"
+                VerticalOptions="Center"
+                Title="Pick a Color"
+                FontSize="20">
+            <x:String>Red</x:String>
+            <x:String>White</x:String>
+            <x:String>Orange</x:String>
+        </Picker>
+        <Button x:Name="BtnDesignCar"
+                Clicked="BtnDesignCar_Clicked"
+                Grid.Row="5"
+                FontSize="20"
+                Grid.ColumnSpan="2"
+                Text="Design Car"/>
+        <Entry x:Name="EntryPrice"
+               HorizontalOptions="Center"
+               Placeholder="Enter Car Price"
+               FontSize="20"
+               Grid.Row="4"
+               Grid.ColumnSpan="2"/>
+        <Label x:Name="LblResults"/>
+        <Switch x:Name="SwtchCondition"
+                Grid.Row="6"
+                FontSize="20"
+                Grid.ColumnSpan="2"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                HorizontalTextAlignment="Center"/>
+    </Grid>
+    
+
+</ContentPage>
