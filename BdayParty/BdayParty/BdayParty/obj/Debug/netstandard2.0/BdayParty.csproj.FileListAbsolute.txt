@@ -1,0 +1,12 @@
+C:\Users\zmalone\source\repos\BdayParty\BdayParty\BdayParty\bin\Debug\netstandard2.0\BdayParty.deps.json
+C:\Users\zmalone\source\repos\BdayParty\BdayParty\BdayParty\bin\Debug\netstandard2.0\BdayParty.dll
+C:\Users\zmalone\source\repos\BdayParty\BdayParty\BdayParty\bin\Debug\netstandard2.0\BdayParty.pdb
+C:\Users\zmalone\source\repos\BdayParty\BdayParty\BdayParty\obj\Debug\netstandard2.0\BdayParty.csprojAssemblyReference.cache
+C:\Users\zmalone\source\repos\BdayParty\BdayParty\BdayParty\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zmalone\source\repos\BdayParty\BdayParty\BdayParty\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\zmalone\source\repos\BdayParty\BdayParty\BdayParty\obj\Debug\netstandard2.0\BdayParty.csproj.CoreCompileInputs.cache
+C:\Users\zmalone\source\repos\BdayParty\BdayParty\BdayParty\obj\Debug\netstandard2.0\BdayParty.AssemblyInfoInputs.cache
+C:\Users\zmalone\source\repos\BdayParty\BdayParty\BdayParty\obj\Debug\netstandard2.0\BdayParty.AssemblyInfo.cs
+C:\Users\zmalone\source\repos\BdayParty\BdayParty\BdayParty\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\zmalone\source\repos\BdayParty\BdayParty\BdayParty\obj\Debug\netstandard2.0\BdayParty.dll
+C:\Users\zmalone\source\repos\BdayParty\BdayParty\BdayParty\obj\Debug\netstandard2.0\BdayParty.pdb

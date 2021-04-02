@@ -1,0 +1,5 @@
+Zechariah Malone	25	(951) 901 5683	Happy	8
+Zachary Thompson	27	(951) 838 4832	Intelligent	7
+Brandon Hodges	25	(951) 312 2341	Funny	7
+Derrick Johnson	24	(943) 434 3432	Weird	3
+Skyler Kent	23	(951) 423 3532	Crazy	8

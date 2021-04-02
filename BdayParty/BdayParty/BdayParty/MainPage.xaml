@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BdayParty"
+             x:Class="BdayParty.MainPage">
+
+    <StackLayout>
+        <Label Text="Zech's Birthday List"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               HorizontalTextAlignment="Center"
+               FontSize="30"
+               Margin="0,30"/>
+        <Picker x:Name="PckFriend"
+                Title="Select a Friend"
+                FontSize="30"
+                VerticalOptions="CenterAndExpand"
+                Margin="30"
+                SelectedIndexChanged="PckFriend_SelectedIndexChanged"/>
+        <Button x:Name="BtnDetails"
+                Text="Show Details"
+                FontSize="30"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand"
+                Padding="30"
+                Clicked="BtnDetails_Clicked"
+                BackgroundColor="DodgerBlue"
+                TextColor="SlateGray"/>
+    </StackLayout>
+
+</ContentPage>
