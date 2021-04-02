@@ -1,0 +1,14 @@
+C:\Users\zmalone\source\repos\AnimalsAcademy\AnimalsAcademy\bin\Debug\AnimalsAcademy.exe.config
+C:\Users\zmalone\source\repos\AnimalsAcademy\AnimalsAcademy\bin\Debug\AnimalsAcademy.exe
+C:\Users\zmalone\source\repos\AnimalsAcademy\AnimalsAcademy\bin\Debug\AnimalsAcademy.pdb
+C:\Users\zmalone\source\repos\AnimalsAcademy\AnimalsAcademy\obj\Debug\MainWindow.g.cs
+C:\Users\zmalone\source\repos\AnimalsAcademy\AnimalsAcademy\obj\Debug\App.g.cs
+C:\Users\zmalone\source\repos\AnimalsAcademy\AnimalsAcademy\obj\Debug\AnimalsAcademy_MarkupCompile.cache
+C:\Users\zmalone\source\repos\AnimalsAcademy\AnimalsAcademy\obj\Debug\AnimalsAcademy_MarkupCompile.lref
+C:\Users\zmalone\source\repos\AnimalsAcademy\AnimalsAcademy\obj\Debug\MainWindow.baml
+C:\Users\zmalone\source\repos\AnimalsAcademy\AnimalsAcademy\obj\Debug\AnimalsAcademy.g.resources
+C:\Users\zmalone\source\repos\AnimalsAcademy\AnimalsAcademy\obj\Debug\AnimalsAcademy.Properties.Resources.resources
+C:\Users\zmalone\source\repos\AnimalsAcademy\AnimalsAcademy\obj\Debug\AnimalsAcademy.csproj.GenerateResource.cache
+C:\Users\zmalone\source\repos\AnimalsAcademy\AnimalsAcademy\obj\Debug\AnimalsAcademy.exe
+C:\Users\zmalone\source\repos\AnimalsAcademy\AnimalsAcademy\obj\Debug\AnimalsAcademy.pdb
+C:\Users\zmalone\source\repos\AnimalsAcademy\AnimalsAcademy\obj\Debug\AnimalsAcademy.csprojAssemblyReference.cache

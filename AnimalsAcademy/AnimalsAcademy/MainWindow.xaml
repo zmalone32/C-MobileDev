@@ -1,0 +1,36 @@
+﻿<Window x:Class="AnimalsAcademy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AnimalsAcademy"
+        mc:Ignorable="d"
+        Title="The Animal Academy" Height="600" Width="800">
+    <Grid>
+        <GroupBox Header="Base Class Properties" HorizontalAlignment="Left" Height="136" Margin="27,58,0,0" VerticalAlignment="Top" Width="162" RenderTransformOrigin="0.291,0.309">
+            <StackPanel Margin="-24,-17,-40,-22.4">
+                <Button x:Name="BtnSkin" Content="Skin Type" HorizontalAlignment="Center" Margin="53,30,56.8,0" VerticalAlignment="Center" Width="103" Height="31" Click="BtnSkin_Click"/>
+                <Button x:Name="BtnFood" Content="Food Type" HorizontalAlignment="Center" Margin="53,10,56.8,0" VerticalAlignment="Center" Width="103" Height="27" Click="BtnFood_Click"/>
+            </StackPanel>
+        </GroupBox>
+
+        <GroupBox Header="Base Class Methods" HorizontalAlignment="Left" Height="136" Margin="298,58,0,0" VerticalAlignment="Top" Width="152">
+            <StackPanel Margin="-24,-17,-71.8,-22.4">
+                <Button x:Name="BtnEat" Content="Eat" HorizontalAlignment="Center" Margin="-40,20,0,0" VerticalAlignment="Center" Width="103" Height="31" Click="BtnEat_Click"/>
+                <Button x:Name="BtnMove" Content="Move" HorizontalAlignment="Center" Margin="-40,10,0,0" VerticalAlignment="Center" Width="103" Height="31" Click="BtnMove_Click"/>
+                <Button x:Name="BtnReproduce" Content="Reproduce" HorizontalAlignment="Center" Margin="-40,10,0,0" VerticalAlignment="Center" Width="103" Height="31" Click="BtnReproduce_Click"/>
+            </StackPanel>
+        </GroupBox>
+
+        <GroupBox Header="Derived Class Overrides" HorizontalAlignment="Left" Height="136" Margin="589,58,0,0" VerticalAlignment="Top" Width="150">
+            <Button x:Name="BtnUnique" Content="Unique" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="116" Height="31" Click="BtnUnique_Click"/>
+        </GroupBox>
+        <RadioButton x:Name="RbDog" Content="Dog" HorizontalAlignment="Left" Margin="86,24,0,0" VerticalAlignment="Top" Checked="RbDog_Checked"/>
+        <RadioButton x:Name="RbCat" Content="Cat" HorizontalAlignment="Left" Margin="354,24,0,0" VerticalAlignment="Top" Checked="RbCat_Checked"/>
+        <RadioButton x:Name="RbChicken" Content="Chicken" HorizontalAlignment="Left" Margin="620,24,0,0" VerticalAlignment="Top" Checked="RbChicken_Checked"/>
+        <Image x:Name="imgAnimal" HorizontalAlignment="Left" Height="304" Margin="207,215,0,0" VerticalAlignment="Top" Width="378" Source="Resources/dog.jpg"/>
+        <Label Name="LblOutput" Content="" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="151,532,0,0" VerticalAlignment="Top" Width="488"/>
+
+
+    </Grid>
+</Window>
