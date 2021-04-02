@@ -1,0 +1,15 @@
+C:\Users\zmalone\source\repos\JellyBellyAcheCentral\JellyBellyAcheCentral\bin\Debug\JellyBellyAcheCentral.exe.config
+C:\Users\zmalone\source\repos\JellyBellyAcheCentral\JellyBellyAcheCentral\bin\Debug\JellyBellyAcheCentral.exe
+C:\Users\zmalone\source\repos\JellyBellyAcheCentral\JellyBellyAcheCentral\bin\Debug\JellyBellyAcheCentral.pdb
+C:\Users\zmalone\source\repos\JellyBellyAcheCentral\JellyBellyAcheCentral\bin\Debug\EntityFramework.dll
+C:\Users\zmalone\source\repos\JellyBellyAcheCentral\JellyBellyAcheCentral\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zmalone\source\repos\JellyBellyAcheCentral\JellyBellyAcheCentral\bin\Debug\EntityFramework.xml
+C:\Users\zmalone\source\repos\JellyBellyAcheCentral\JellyBellyAcheCentral\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zmalone\source\repos\JellyBellyAcheCentral\JellyBellyAcheCentral\obj\Debug\JellyBellyAcheCentral.csprojAssemblyReference.cache
+C:\Users\zmalone\source\repos\JellyBellyAcheCentral\JellyBellyAcheCentral\obj\Debug\JellyBellyAcheCentral.CategoryForm.resources
+C:\Users\zmalone\source\repos\JellyBellyAcheCentral\JellyBellyAcheCentral\obj\Debug\JellyBellyAcheCentral.Form1.resources
+C:\Users\zmalone\source\repos\JellyBellyAcheCentral\JellyBellyAcheCentral\obj\Debug\JellyBellyAcheCentral.Properties.Resources.resources
+C:\Users\zmalone\source\repos\JellyBellyAcheCentral\JellyBellyAcheCentral\obj\Debug\JellyBellyAcheCentral.csproj.GenerateResource.cache
+C:\Users\zmalone\source\repos\JellyBellyAcheCentral\JellyBellyAcheCentral\obj\Debug\JellyBellyAcheCentral.csproj.CopyComplete
+C:\Users\zmalone\source\repos\JellyBellyAcheCentral\JellyBellyAcheCentral\obj\Debug\JellyBellyAcheCentral.exe
+C:\Users\zmalone\source\repos\JellyBellyAcheCentral\JellyBellyAcheCentral\obj\Debug\JellyBellyAcheCentral.pdb
