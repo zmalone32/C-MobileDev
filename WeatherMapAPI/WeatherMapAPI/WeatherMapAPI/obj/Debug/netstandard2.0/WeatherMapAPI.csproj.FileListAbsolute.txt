@@ -1,0 +1,14 @@
+C:\Users\zmalone\source\repos\WeatherMapAPI\WeatherMapAPI\WeatherMapAPI\bin\Debug\netstandard2.0\WeatherMapAPI.deps.json
+C:\Users\zmalone\source\repos\WeatherMapAPI\WeatherMapAPI\WeatherMapAPI\bin\Debug\netstandard2.0\WeatherMapAPI.dll
+C:\Users\zmalone\source\repos\WeatherMapAPI\WeatherMapAPI\WeatherMapAPI\bin\Debug\netstandard2.0\ref\WeatherMapAPI.dll
+C:\Users\zmalone\source\repos\WeatherMapAPI\WeatherMapAPI\WeatherMapAPI\bin\Debug\netstandard2.0\WeatherMapAPI.pdb
+C:\Users\zmalone\source\repos\WeatherMapAPI\WeatherMapAPI\WeatherMapAPI\obj\Debug\netstandard2.0\WeatherMapAPI.csprojAssemblyReference.cache
+C:\Users\zmalone\source\repos\WeatherMapAPI\WeatherMapAPI\WeatherMapAPI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zmalone\source\repos\WeatherMapAPI\WeatherMapAPI\WeatherMapAPI\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\zmalone\source\repos\WeatherMapAPI\WeatherMapAPI\WeatherMapAPI\obj\Debug\netstandard2.0\WeatherMapAPI.AssemblyInfoInputs.cache
+C:\Users\zmalone\source\repos\WeatherMapAPI\WeatherMapAPI\WeatherMapAPI\obj\Debug\netstandard2.0\WeatherMapAPI.AssemblyInfo.cs
+C:\Users\zmalone\source\repos\WeatherMapAPI\WeatherMapAPI\WeatherMapAPI\obj\Debug\netstandard2.0\WeatherMapAPI.dll
+C:\Users\zmalone\source\repos\WeatherMapAPI\WeatherMapAPI\WeatherMapAPI\obj\Debug\netstandard2.0\ref\WeatherMapAPI.dll
+C:\Users\zmalone\source\repos\WeatherMapAPI\WeatherMapAPI\WeatherMapAPI\obj\Debug\netstandard2.0\WeatherMapAPI.pdb
+C:\Users\zmalone\source\repos\WeatherMapAPI\WeatherMapAPI\WeatherMapAPI\obj\Debug\netstandard2.0\WeatherPage.xaml.g.cs
+C:\Users\zmalone\source\repos\WeatherMapAPI\WeatherMapAPI\WeatherMapAPI\obj\Debug\netstandard2.0\XamlC.stamp
