@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ZMFitnessApp1"
+             x:Class="ZMFitnessApp1.MainPage"
+             Title="Zech's Fitness App">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label x:Name="LblWelcome"
+               Text="Welcome to Zechariah's Fitness App"
+               Grid.ColumnSpan="2"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="20"/>
+        <Button x:Name="BtnWelcome"
+                Text="Welcome"
+                Grid.Row="2"
+                Grid.ColumnSpan="2"
+                Margin="30,10"
+                BackgroundColor="DodgerBlue"
+                Clicked="BtnWelcome_Clicked"
+                IsVisible="False"/>
+        <Button x:Name="BtnBMR"
+                Text="Calculate BMR"
+                Grid.Row="3"
+                Grid.ColumnSpan="2"
+                Margin="30,10"
+                BackgroundColor="DodgerBlue"
+                Clicked="BtnBMR_Clicked"
+                BorderRadius="10"/>
+        <Button x:Name="BtnMyProfile"
+                Text="My Profile"
+                Grid.Row="2"
+                Margin="30,10"
+                Grid.ColumnSpan="2"
+                BackgroundColor="DodgerBlue"
+                Clicked="BtnMyProfile_Clicked"
+                BorderRadius="10"/>
+        <Label x:Name="LblDate"
+               Text="Today's Date:"
+               Grid.Row="1"
+               Grid.Column="1"
+               HorizontalOptions="Start"
+               FontSize="20"/>
+        <Label x:Name="LblToday"
+               Text="Today's Date: "
+               Grid.Row="1"
+               HorizontalOptions="End"
+               FontSize="20"/>
+        <Button x:Name="BtnTimer"
+                Clicked="BtnTimer_Clicked"
+                Grid.Row="4"
+                Margin="30,10"
+                Text="Timer"
+                Grid.ColumnSpan="2"
+                BackgroundColor="DodgerBlue"
+                BorderRadius="10"/>
+        <Button x:Name="BtnMyWater"
+                Text="My Water"
+                Grid.Row="5"
+                Grid.ColumnSpan="2"
+                BackgroundColor="DodgerBlue"
+                Margin="30,10"
+                Clicked="BtnMyWater_Clicked"
+                BorderRadius="10"/>
+
+    </Grid>
+
+</ContentPage>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ZMFitnessApp1.MyTimerPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height=".5*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Text="Zech's Simple Timer"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="20"/>
+        <Frame Grid.Row="1"
+               BorderColor="Green"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               CornerRadius="30"
+               Margin="30,0">
+            <Label Text="00:00"
+                   x:Name="LblTime"
+                   TextColor="Green"
+                   FontSize="80"/>
+        </Frame>
+        <StackLayout Orientation="Horizontal"
+                     Grid.Row="2"
+                     HorizontalOptions="Center">
+            <Label Text="Start Time: "
+                   TextColor="Black"
+                   FontSize="20"
+                   VerticalOptions="Center"/>
+            <Entry x:Name="EntryTime"
+                   FontSize="20"
+                   Placeholder="Enter Time"
+                   TextColor="Black"
+                   BackgroundColor="Green"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal"
+                     Grid.Row="3"
+                     HorizontalOptions="Center">
+            <Label Text="Up or Down: "
+                   VerticalOptions="Center"/>
+            <Picker x:Name="PckUpDown"
+                    Title="Select Up or Down"
+                    VerticalOptions="Center">
+                <Picker.Items>
+                    <x:String>Up</x:String>
+                    <x:String>Down</x:String>
+                </Picker.Items>
+            </Picker>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal"
+                     Grid.Row="4">
+            <Button x:Name="BtnStartTime"
+                Text="START"
+                FontSize="30"
+                HorizontalOptions="FillAndExpand"
+                Clicked="BtnStartTime_Clicked"/>
+        <Button x:Name="BtnCloseTime"
+                HorizontalOptions="FillAndExpand"
+                FontSize="30"
+                Text="CLOSE"
+                Clicked="BtnCloseTime_Clicked"/>
+        </StackLayout>
+        <Button x:Name="BtnLapTime"
+                Text="Get Lap Time"
+                Grid.Row="5"
+                FontSize="30"
+                Clicked="BtnLapTime_Clicked"/>
+        <Label x:Name="LblLapTime"
+               Grid.Row="6"/>
+    </Grid>
+</ContentPage>

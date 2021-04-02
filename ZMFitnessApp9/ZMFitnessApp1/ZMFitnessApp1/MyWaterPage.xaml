@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ZMFitnessApp1.MyWaterPage">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height=".5*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <BoxView BackgroundColor="DodgerBlue"/>
+            <Label Text="My Water Count"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   TextColor="SlateGray"
+                   FontSize="30"/>
+            <Label x:Name="LblDate"
+                   Text="Today: "
+                   Grid.Row="1"
+                   HorizontalOptions="Center"/>
+            <Label Text="No Water Yet Today"
+                   x:Name="LblWater"
+                   Grid.Row="2"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"/>
+            <StackLayout x:Name="SLWater"
+                         Orientation="Horizontal"
+                         Grid.Row="3"/>
+            <StackLayout Orientation="Horizontal"
+                         Grid.Row="4">
+                <Button x:Name="BtnAddWater"
+                        Text="Add Water"
+                        FontSize="30"
+                        BackgroundColor="DodgerBlue"
+                        TextColor="SlateGray"
+                        Padding="20,0"
+                        HorizontalOptions="FillAndExpand"
+                        Clicked="BtnAddWater_Clicked"/>
+                <Button x:Name="BtnClose"
+                        Text="Close"
+                        FontSize="30"
+                        HorizontalOptions="FillAndExpand"
+                        Clicked="BtnClose_Clicked"/>
+
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
